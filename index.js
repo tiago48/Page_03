@@ -1,4 +1,5 @@
 console.log('Hello guys!')
 
-let name = 'Molly'
-console.log(name)
+let firstName = 'Molly '
+let lastName = 'Carson'
+console.log(firstName + lastName)
